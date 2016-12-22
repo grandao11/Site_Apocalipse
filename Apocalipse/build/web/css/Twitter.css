@@ -1,0 +1,38 @@
+.twitter_div {
+        align: center;
+        margin: 60px 15px 15px 15px;
+        width: 495px;
+        padding: 45px 30px 10px 62px;
+        background-image: url('http://www.seusite.com/imagens/twitter.jpg');
+        background-position: 22px 5px;
+        background-repeat: no-repeat;
+        font-family: Verdana, Arial, Helvetica; 
+        border: 1px solid #0CF;
+        }
+
+        .twitter_div ul li {
+        color: #000;
+        list-style: none;
+        font-size: 11px; 
+        text-align: left;
+        padding: 7px;
+        border-bottom: 1px dotted #666;
+        }
+
+        .twitter_div ul li a {
+        text-decoration: underline;
+        color: #d22929;
+        }
+
+        .twitter_div ul li a:hover {
+        text-decoration: none;
+        color: #000;
+        }
+
+        .twitter-link {
+        padding: 0px;
+        display:block;
+        text-align:right;
+        font-size: 10px; 
+        font-color: #d22929;
+        }
